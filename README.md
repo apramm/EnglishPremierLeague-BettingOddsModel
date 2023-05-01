@@ -14,12 +14,11 @@ There are a variety of visualisation techniques which can be used in this projec
 As there are multiple factors which affect the win % of a team throughout the season. Therefore, we’ll be scraping data from multiple sources which provide information like possession, attendance, home/away team etc. We’ll be working on finding a couple more datasets which can be concatenated together. Then, used to build a regression model using some machine learning tools which would predict which team wins the match with some moderate to high accuracy. 
 If the time allows we also plan to apply the regression model to leagues around the globe and therefore, predicting the winner of that season solely based on our model.
 
-Some of such sources are: 
-	https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022 
-	https://fbref.com/en/comps/9/Premier-League-Stats#all_results2022-202391 
+Our source for data for testing and training data was from:
 	https://www.football-data.co.uk/englandm.php 
 
 # WORK SPLIT
-We both plan to split the work as such: The work will be split very evenly between the two. Sahaj will be focusing on the football aspect of the study, along with visualisation. Apram will be focusing on the data cleaning and scraping part of the project. Both of us plan to contribute equally to the regression/modelling part of the project where we try to predict football matches and infer which factor affects the result of football matches. 
+We both plan to split the work as such: 
+The work will be split very evenly between the two. Sahaj will be focusing on the football aspect of the study, along with visualisation. Apram will be focusing on the data cleaning and scraping part of the project. Both of us plan to contribute equally to the regression/modelling part of the project where we try to predict football matches and infer which factor affects the result of football matches. 
  
 	
