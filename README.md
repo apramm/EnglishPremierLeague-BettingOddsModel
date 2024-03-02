@@ -1,4 +1,4 @@
-# Exploring the Effectiveness of Betting Odds and Half Time Results for Predicting Football Match Outcomes
+# Exploring the Accuracy of Betting Odds and Half Time Results for Predicting English Premier League's Match Outcome
 
 # BACKGROUND 
 Data analysis has fully proliferated sports now. Not only is data extensively used by people who want to bet on the sport and make a buck out of it. Clubs have started hiring data analysts and scouts who leverage match player performance data, video footage, expected goals and assists, and data signals to understand and optimise their performance deeply. 
@@ -20,5 +20,8 @@ Our source for data for testing and training data was from:
 
 # WORK SPLIT
 The work was split evenly between the two. Sahaj will be focusing on the football aspect of the study, along with visualisation. Apram will be focusing on the data cleaning and scraping part of the project. Both of us plan to contribute equally to the regression/modelling part of the project where we try to predict football matches and infer which factor affects the result of football matches. 
- 
+
+ <p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 	
